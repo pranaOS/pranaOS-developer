@@ -1,0 +1,11 @@
+# vscode cache
+.vscode/
+
+# jetbrains cache
+.idea/
+
+# system cache
+.DS_Store
+
+# python cache
+__pycache__
